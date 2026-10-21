@@ -6,9 +6,8 @@
 
 Building RAG systems, production ML pipelines, and the backends that serve them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniruddha-patel-6579b7438/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patelaniruddha05@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 
 </div>
 
@@ -74,4 +73,4 @@ Fourth-year Electronics & Communication Engineering student at **Thapar Institut
 
 ## Get in Touch
 
-I'm happy to talk about AI/ML, backend systems, or opportunities. The fastest way to reach me is [email](mailto:patelaniruddha05@gmail.com) or [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE).
+I'm happy to talk about AI/ML, backend systems, or opportunities. The fastest way to reach me is [email](mailto:patelaniruddha05@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aniruddha-patel-6579b7438/?isSelfProfile=true).

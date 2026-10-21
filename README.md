@@ -28,10 +28,9 @@ Fourth-year Electronics & Communication Engineering student at **Thapar Institut
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**MineIntel AI**](https://github.com/aniruddha202005/REPO-NAME) | RAG-based document intelligence platform for mining accident analysis. Ingests unstructured incident PDFs (OCR, chunking, embeddings) and answers questions grounded only in retrieved documents, with citations. | FastAPI · React · LangChain · LangGraph · FAISS · PostgreSQL |
-| [**Production RAG Platform**](https://github.com/aniruddha202005/REPO-NAME) | Production-grade RAG system for automated document ingestion, semantic retrieval, and context-aware Q&A, with a full technical deep-dive and architecture diagrams. | Python · RAG · LLMs |
-| [**Feature Flag Management Platform**](https://github.com/aniruddha202005/REPO-NAME) | Full-stack platform for controlled feature rollouts. Redis-backed flag evaluation with percentage rollouts, async SQLAlchemy backend, Dockerized with CI. | FastAPI · PostgreSQL · Redis · React · Docker |
-| [**Customer Churn & ValueEngine**](https://github.com/aniruddha202005/REPO-NAME) | Churn and customer-spend models on the Online Retail II dataset, served through an interactive dashboard. | Python · Scikit-learn · Streamlit |
+| [**Feature Flag Management Platform**](https://github.com/aniruddha202005/Feature-Flag-platform) | Full-stack platform for controlled feature rollouts. Redis-backed flag evaluation with percentage rollouts, async SQLAlchemy backend, Dockerized with CI. | FastAPI · PostgreSQL · Redis · React · Docker |
+| [**Customer Churn & ValueEngine**](https://github.com/aniruddha202005/Customer-value-churn-engine) | Churn and customer-spend models on the Online Retail II dataset, served through an interactive dashboard. | Python · Scikit-learn · Streamlit |
+| [**MineIntel AI**](https://github.com/aniruddha202005/MineIntelAi) | RAG-based document intelligence platform for mining accident analysis. Ingests unstructured incident PDFs (OCR, chunking, embeddings) and answers questions grounded only in retrieved documents, with citations. | FastAPI · React · LangChain · LangGraph · FAISS · PostgreSQL |
 
 ---
 
